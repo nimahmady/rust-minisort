@@ -1,0 +1,18 @@
+[package]
+name = "minisort"
+version = "0.1.0"
+edition = "2021"
+authors = ["Nima Ahmady-Moghaddam <nima.ahmady-moghaddam@haw-hamburg.de>"]
+description = "A mini version of sort, the beloved Unix CLI tool for sorting data."
+readme = "README.md"
+repository = "https://git.haw-hamburg.de/infwtf665/pszp-team01-a03"
+license = "MIT"
+license-file = "LICENSE.md"
+keywords = ["sorting", "mergesort", "quicksort", "heapsort"]
+categories = ["command-line-utility"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "4.0", features = ["derive", "cargo"] }
+rand = "0.8.5"
