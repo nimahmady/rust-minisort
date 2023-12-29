@@ -7,7 +7,6 @@ description = "A mini version of sort, the beloved Unix CLI tool for sorting dat
 readme = "README.md"
 repository = "https://git.haw-hamburg.de/infwtf665/pszp-team01-a03"
 license = "MIT"
-license-file = "LICENSE.md"
 keywords = ["sorting", "mergesort", "quicksort", "heapsort"]
 categories = ["command-line-utility"]
 
