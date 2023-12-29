@@ -1,4 +1,4 @@
-# minisort: The mini version of sort
+# minisort: A mini version of sort
 
 This application is a miniature version of sort, the Unix-based CLI tool for sorting word lists.
 
